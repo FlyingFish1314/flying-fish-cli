@@ -1,5 +1,5 @@
 // 可选择的框架
-const framwork = ['express', 'koa', 'egg', 'vue3_vite_ts']
+const framwork = ['express', 'koa', 'egg', 'vue3_vite_ts', 'vue3_vite_ts_element_plus']
 // 框架对应的下载地址
 const framworkUrl = {
   express: 'https://gitee.com/Flying--fish/express-template.git',
