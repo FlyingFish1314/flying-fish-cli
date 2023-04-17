@@ -5,7 +5,8 @@ const framworkUrl = {
   express: 'https://gitee.com/Flying--fish/express-template.git',
   koa: 'https://gitee.com/Flying--fish/koa-template.git',
   egg: 'https://gitee.com/Flying--fish/egg-template.git',
-  vue3_vite_ts: 'https://gitee.com/Flying--fish/vue3-vite-template.git'
+  vue3_vite_ts: 'https://gitee.com/Flying--fish/vue3-vite-template.git',
+  vue3_vite_ts_element_plus: 'https://gitee.com/Flying--fish/vue3-vite-template.git#element-plus'
 }
 export {
   framwork,
